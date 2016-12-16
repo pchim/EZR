@@ -1,0 +1,31 @@
+button, select {
+  margin: 5px;
+}
+
+div.inline-elements > * {
+  display: inline-block;
+}
+
+.listings {
+  overflow-y: scroll;
+  height: 500px;
+}
+
+.media {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 1px;
+}
+.media h4, h5 {
+  margin: 0;
+}
+.media-body h4 {
+  max-width: 80%;
+}
+
+.navigation h4 {
+  color: red;
+}
+
+
+
